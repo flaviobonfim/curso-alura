@@ -5,5 +5,5 @@
 > Para rodar esse projeto, favor instalar:
 >
 >```
-> npm install react
+> instalar o app.js
 > ````
